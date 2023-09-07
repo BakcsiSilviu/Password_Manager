@@ -1,2 +1,4 @@
 # Password_Manager
 This application can store and find your already stored accounts. With just a press of a button it can create you a very strong and hard to crack password for you to use on any site and account.
+You just need to enter a website (or application) that you already stored using the application then press the 'search' button, and a pop-up will appear with all the credentials used for that account.
+By pressing the 'generate password' button, the program will generate you a very strong password which will contain letters (but upper and lower case), numbers and symbols. And don't worry, after pressing the generate button password, the newly generated password will automatically be saved on your clipboard, so you can paste it directly on the password field for your newly created account.
